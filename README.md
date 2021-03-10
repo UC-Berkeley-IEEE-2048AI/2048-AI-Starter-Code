@@ -9,17 +9,9 @@ This is the starter code for 2048 AI project hosted by UC Berkeley IEEE Student 
 
 ## How to run/test your AI
 
-This AI is built based on the 2048 pypi package made by user 'quantum'. If you don't have this package on your laptop, run
-<code>
-  pip install 2048
-</code>  
-in your terminal.
+This AI is built based on the 2048 pypi package made by user 'quantum'. If you don't have this package on your laptop, run <code> pip install 2048 </code> in your terminal.
 
-Then, in the directory, run
-<code>
-  py AI_game.py
-</code>  
-to test your AI performance.
+Then, in the directory, run <code> py AI_game.py </code> to test your AI performance.
 
 The GUI will automatically pops up, and AI will start search.
 
